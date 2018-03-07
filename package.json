@@ -1,0 +1,34 @@
+{
+  "name": "embers",
+  "version": "1.0.0",
+  "description": "A Simplistic Yet Complex Music Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireController1847/embers-music-player.git"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "embers",
+    "music-player",
+    "iheartradio",
+    "spotify"
+  ],
+  "author": "FireController#1847",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FireController1847/embers-music-player/issues"
+  },
+  "homepage": "https://github.com/FireController1847/embers-music-player#readme",
+  "dependencies": {
+    "electron": "^1.8.3"
+  },
+  "devDependencies": {
+    "electron-reload": "^1.2.2"
+  }
+}
